@@ -1,0 +1,6 @@
+{
+    "id": "EventBLift",
+    "template": "index.html",
+    "observers": "EventBLift.observers.json",
+    "events": "EventBLift.events.json"
+}
