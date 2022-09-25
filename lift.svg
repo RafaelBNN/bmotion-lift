@@ -1,19 +1,164 @@
-<svg width="325" height="430" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="432" width="327" y="-1" x="-1"/>
- </g>
-
- <g>
-  <title>Layer 1</title>
-  <rect fill="#ffffff" x="39" y="37" width="192" height="331" id="svg_1" stroke="#000000"/>
-  <line fill="none" stroke="#000000" stroke-dasharray="2,2" x1="0" y1="267" x2="270" y2="267" id="svg_2"/>
-  <line fill="none" stroke="#000000" stroke-dasharray="2,2" x1="0" y1="157" x2="270" y2="157" id="svg_4"/>
-  <rect id="door" height="80" width="70" y="276" x="103" stroke="#000000" fill="#cccccc"/>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="2,2" x="280" y="110" font-size="14" font-family="Monospace" text-anchor="middle" xml:space="preserve" font-weight="normal" data-floor="1">Floor 1</text>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="2,2" x="280" y="220" font-size="14" font-family="Monospace" text-anchor="middle" xml:space="preserve" font-weight="normal" data-floor="0">Floor 0</text>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="2,2" x="280" y="330" font-size="14" font-family="Monospace" text-anchor="middle" xml:space="preserve" font-weight="normal" data-floor="-1">Floor -1</text>
-  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="15" id="txt_cur_floor" y="397.5" x="164" stroke-width="0" stroke="#000" fill="#000000">CUR_FLOOR</text>
-  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_3" y="397.5" x="39.5" stroke-width="0" stroke="#000" fill="#000000">Current Floor:</text>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="325"
+   height="430"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="lift.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs27" /><sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5093023"
+     inkscape:cx="162.98921"
+     inkscape:cy="215.33128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" /><g
+     id="g5"><title
+       id="title2">background</title><rect
+       fill="none"
+       id="canvas_background"
+       height="432"
+       width="327"
+       y="-1"
+       x="-1" /></g><g
+     id="g21"><title
+       id="title7">Layer 1</title><rect
+       fill="#ffffff"
+       x="39"
+       y="37"
+       width="192"
+       height="331"
+       id="svg_1"
+       stroke="#000000" /><line
+       fill="none"
+       stroke="#000000"
+       stroke-dasharray="2,2"
+       x1="0"
+       y1="267"
+       x2="270"
+       y2="267"
+       id="svg_2" /><line
+       fill="none"
+       stroke="#000000"
+       stroke-dasharray="2,2"
+       x1="0"
+       y1="157"
+       x2="270"
+       y2="157"
+       id="svg_4" /><rect
+       id="door"
+       height="80"
+       width="70"
+       y="276"
+       x="103"
+       stroke="#000000"
+       fill="#cccccc" /><text
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-dasharray="2,2"
+       x="280"
+       y="110"
+       font-size="14"
+       font-family="Monospace"
+       text-anchor="middle"
+       xml:space="preserve"
+       font-weight="normal"
+       data-floor="1"
+       id="text13">Floor 1</text><text
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-dasharray="2,2"
+       x="280"
+       y="220"
+       font-size="14"
+       font-family="Monospace"
+       text-anchor="middle"
+       xml:space="preserve"
+       font-weight="normal"
+       data-floor="0"
+       id="text15">Floor 0</text><text
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-dasharray="2,2"
+       x="280"
+       y="330"
+       font-size="14"
+       font-family="Monospace"
+       text-anchor="middle"
+       xml:space="preserve"
+       font-weight="normal"
+       data-floor="-1"
+       id="text17">Floor -1</text><text
+       xml:space="preserve"
+       text-anchor="left"
+       font-family="Helvetica, Arial, sans-serif"
+       font-size="15"
+       id="txt_cur_floor"
+       y="397.5"
+       x="164"
+       stroke-width="0"
+       stroke="#000"
+       fill="#000000">CUR_FLOOR</text><text
+       xml:space="preserve"
+       text-anchor="left"
+       font-family="Helvetica, Arial, sans-serif"
+       font-size="15"
+       id="svg_3"
+       y="397.5"
+       x="39.5"
+       stroke-width="0"
+       stroke="#000"
+       fill="#000000">Current Floor:</text></g><path
+     sodipodi:type="star"
+     style="fill:#000000"
+     id="arrowup"
+     inkscape:flatsided="false"
+     sodipodi:sides="3"
+     sodipodi:cx="251.77196"
+     sodipodi:cy="32.465332"
+     sodipodi:r1="20.581991"
+     sodipodi:r2="10.290996"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 269.59648,42.756328 -17.82452,0 -17.82453,0 8.91226,-15.436494 8.91227,-15.436493 8.91226,15.436493 z"
+     inkscape:transform-center-y="-5.1454981"
+     transform="translate(24.05257,-1.3251156)" /><path
+     sodipodi:type="star"
+     style="fill:#000000"
+     id="arrowdown"
+     inkscape:flatsided="false"
+     sodipodi:sides="3"
+     sodipodi:cx="251.77196"
+     sodipodi:cy="32.465332"
+     sodipodi:r1="20.581991"
+     sodipodi:r2="10.290996"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 269.59648,42.756328 -17.82452,0 -17.82453,0 8.91226,-15.436494 8.91227,-15.436493 8.91226,15.436493 z"
+     inkscape:transform-center-y="5.1454984"
+     transform="rotate(180,263.79824,49.283073)"
+     inkscape:transform-center-x="9.7043261e-06" /></svg>

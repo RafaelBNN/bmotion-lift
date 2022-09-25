@@ -64,4 +64,20 @@ bms.executeEvent({
 		{ name: "close_door" }, 
 		{ name: "open_door" }
 	]
-  });
+});
+
+// event handlers to move elevator up and down
+bms.executeEvent({
+	selector: "#arrowup",
+	events: [
+		{ name: "move_up" }
+	]
+});
+
+bms.executeEvent({
+	selector: "#arrowdown",
+	events: [
+		{ name: "move_down" }
+	]
+});
+
