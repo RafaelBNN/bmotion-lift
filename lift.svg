@@ -1,0 +1,19 @@
+<svg width="325" height="430" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="432" width="327" y="-1" x="-1"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#ffffff" x="39" y="37" width="192" height="331" id="svg_1" stroke="#000000"/>
+  <line fill="none" stroke="#000000" stroke-dasharray="2,2" x1="0" y1="267" x2="270" y2="267" id="svg_2"/>
+  <line fill="none" stroke="#000000" stroke-dasharray="2,2" x1="0" y1="157" x2="270" y2="157" id="svg_4"/>
+  <rect id="door" height="80" width="70" y="276" x="103" stroke="#000000" fill="#cccccc"/>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="2,2" x="280" y="110" font-size="14" font-family="Monospace" text-anchor="middle" xml:space="preserve" font-weight="normal" data-floor="1">Floor 1</text>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="2,2" x="280" y="220" font-size="14" font-family="Monospace" text-anchor="middle" xml:space="preserve" font-weight="normal" data-floor="0">Floor 0</text>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="2,2" x="280" y="330" font-size="14" font-family="Monospace" text-anchor="middle" xml:space="preserve" font-weight="normal" data-floor="-1">Floor -1</text>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="15" id="txt_cur_floor" y="397.5" x="164" stroke-width="0" stroke="#000" fill="#000000">CUR_FLOOR</text>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_3" y="397.5" x="39.5" stroke-width="0" stroke="#000" fill="#000000">Current Floor:</text>
+ </g>
+</svg>

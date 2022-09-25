@@ -2,5 +2,6 @@
     "id": "EventBLift",
     "template": "index.html",
     "observers": "EventBLift.observers.json",
-    "events": "EventBLift.events.json"
+    "events": "EventBLift.events.json",
+    "model": "model/MLift.bcm"
 }
